@@ -16,7 +16,8 @@ And on image forward and backward arrow buttons are there, on click of it we can
 Decisions I've made while developing this project :
 1. Swift programming Language.
 2. MVC pattern.
-3. JSONDecoder to decode api response.
-4. Network layer.
-5. Image Cache generic logic.
+3. URLSession class for rest api communication.
+4. JSONDecoder to decode api response.
+5. Network layer.
+6. Image Cache generic logic.
 
